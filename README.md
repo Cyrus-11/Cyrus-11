@@ -9,7 +9,7 @@
 ## 💫 About Me
 
 - 👨‍💻 Backend Engineer focused on building scalable and secure systems
-- 🚀 Founder of **XpressDrop** — an on-demand laundry logistics platform
+- 🚀 Founder of **XpressDrop** an on-demand laundry logistics platform
 - 🧠 Strong interest in system design, APIs, and backend architecture
 - 🏦 Experience building fintech and logistics-based applications
 - 🔧 Focused on writing clean, maintainable, and production-ready code
