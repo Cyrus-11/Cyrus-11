@@ -41,8 +41,6 @@ Git • GitHub • Postman • Prisma • Docker (learning)
 
 - Building scalable backend systems for real-world products
 - Improving system design and architecture skills
-- Expanding XpressDrop into a full production-grade platform
-- Learning cloud deployment and DevOps fundamentals
 
 ---
 
