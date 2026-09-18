@@ -2,7 +2,7 @@
 
 # ECO (Cecil)
 
-### Backend Engineer | Software Engineer | QA Engineer
+### Software Engineer | QA Engineer
 
 ---
 
