@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 ### Languages:
-TypeScript • JavaScript • Dart • SQL
+TypeScript • JavaScript • Dart • SQL • JAVA
 
 ### Backend:
 Node.js • Express.js • Next.js (API Routes) • REST APIs
@@ -33,7 +33,7 @@ React • Next.js • Flutter
 MySQL • PostgreSQL • Appwrite • MongoDB
 
 ### Tools:
-Git • GitHub • Postman • Prisma • Docker (learning)
+Git • GitHub • Postman • Prisma • Docker (learning) • IntelliJ IDEA
 
 ---
 
